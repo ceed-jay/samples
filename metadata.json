@@ -1,0 +1,7 @@
+{
+  "name": "MedGO - portal",
+  "description": "A modern promotional landing page for MedGO, a medicine delivery mobile application focusing on speed, trust, and accessibility.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
